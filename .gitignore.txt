@@ -1,2 +1,2 @@
-text.doc
-teeext.doc
+.doc
+
